@@ -161,7 +161,7 @@ A travel and ticket booking project designed for:
 <img src="https://img.shields.io/badge/Instagram-iam__aznannn-E4405F?style=for-the-badge&logo=instagram">
 </a>
 
-<a href="https://x.com/abaznan">
+<a href="https://x.com/ab_aznan">
 <img src="https://img.shields.io/badge/X-abaznan-black?style=for-the-badge&logo=x">
 </a>
 
