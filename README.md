@@ -24,21 +24,38 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<div align="center">
 
-I'm **Aznan Ali Baig**, a Computer Science Engineering student passionate about software development, problem solving and building useful digital products.
+### Hi, I'm Aznan Ali Baig 👋
 
-🎓 BTech in Computer Science Engineering  
-💻 Aspiring Software Developer  
-🌱 Currently learning and improving my development skills  
-🚀 Interested in Web Development & Software Engineering  
-✍️ Writer / Shayar  
-📸 Photography & Travel enthusiast  
-☕ Chai lover  
+**BTech CSE Student | Aspiring Software Developer**
 
-I enjoy turning ideas into projects and continuously learning new technologies.
+</div>
 
-<br clear="right"/>
+I'm a Computer Science Engineering student passionate about **software development, problem solving, and building useful digital products.**
+
+### 🎓 Education
+- 🎓 **BTech in Computer Science Engineering**
+- 🏫 Integral University, Lucknow
+
+### 💻 What I Do
+- 🚀 Aspiring Software Developer
+- 🌱 Currently improving my programming and development skills
+- 🧩 Interested in Web Development & Software Engineering
+- 🛠️ Love building projects and learning new technologies
+
+### 🧰 Skills
+- **Languages:** C, C++, Java, Python
+- **Web:** HTML, CSS, JavaScript
+- **Backend:** ASP.NET Core
+- **Database:** SQL Server, MySQL
+- **Tools:** Git, GitHub, VS Code, Visual Studio
+
+### ✍️ Beyond Code
+- ✍️ Writer / Shayar
+- 🌍 Traveller
+- 📸 Photography enthusiast
+- ☕ Chai lover
 
 ---
 
