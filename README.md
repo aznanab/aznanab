@@ -125,12 +125,18 @@ A travel-focused project designed to combine ticket booking and holiday planning
 
 ---
 
+---
+
 # 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aznanab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aznanab&show_icons=true&theme=tokyonight&hide_border=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aznanab&layout=compact&theme=tokyonight&hide_border=true" height="180">
+<br>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aznanab&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
+
+---
