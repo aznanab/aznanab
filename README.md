@@ -4,20 +4,20 @@
 
 ### 💻 BTech CSE Student | Software Developer | Writer | Traveller
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C6EE6&center=true&vCenter=true&width=650&lines=Aspiring+Software+Developer;C+%7C+C%2B%2B+%7C+Java+%7C+Python;Web+Development+Enthusiast;Building+Projects+and+Learning+Every+Day;Writer+%7C+Traveller+%7C+Chai+Lover" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C6EE6&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;C+%7C+C%2B%2B+%7C+Java+%7C+Python;Web+Development+Enthusiast;Building+Projects+and+Learning+Every+Day;Writer+%7C+Traveller+%7C+Chai+Lover" />
 
 <br>
 
 <a href="https://github.com/aznanab">
-<img src="https://img.shields.io/badge/GITHUB-AZNANAB-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-aznanab-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LINKEDIN-AZNAN%20ALI%20BAIG-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-Aznan%20Ali%20Baig-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://www.instagram.com/iam_aznannn/">
-<img src="https://img.shields.io/badge/INSTAGRAM-iam__aznannn-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<img src="https://img.shields.io/badge/Instagram-iam__aznannn-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
 <a href="https://x.com/ab_aznan">
@@ -30,7 +30,7 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Aznan Ali Baig**, a Computer Science Engineering student passionate about **software development, problem solving, and building useful digital products.**
+Hi! I'm **Aznan Ali Baig**, a Computer Science Engineering student passionate about **software development, problem solving, technology and building useful digital products.**
 
 🎓 **BTech in Computer Science Engineering**  
 💻 **Aspiring Software Developer**  
@@ -57,33 +57,25 @@ Hi! I'm **Aznan Ali Baig**, a Computer Science Engineering student passionate ab
 ### 💻 Programming Languages
 
 <p align="left">
-
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
-
 </p>
 
 ### 🌐 Web Development
 
 <p align="left">
-
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
-
 </p>
 
 ### ⚙️ Backend & Database
 
 <p align="left">
-
 <img src="https://skillicons.dev/icons?i=dotnet,cs,mysql,mssql" />
-
 </p>
 
 ### 🔧 Tools & Technologies
 
 <p align="left">
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
-
 </p>
 
 ---
@@ -92,11 +84,11 @@ Hi! I'm **Aznan Ali Baig**, a Computer Science Engineering student passionate ab
 
 ## 📱 Amazon CRUD
 
-**ASP.NET Core MVC | SQL Server | Visual Studio**
+### ASP.NET Core MVC | SQL Server | Visual Studio
 
-A smartphone-selling web application developed using ASP.NET Core MVC.
+A smartphone-selling web application developed using **ASP.NET Core MVC**.
 
-### Features
+### ✨ Features
 
 - 🔐 Login & Logout
 - 📦 Product Management
@@ -105,36 +97,35 @@ A smartphone-selling web application developed using ASP.NET Core MVC.
 - 🗑️ Delete Products
 - 🗄️ SQL Server Database
 - 📞 Contact Us
-- 👨‍💼 Admin functionality
+- 👨‍💼 Admin Functionality
+- 🔄 CRUD Operations
 
 ---
 
 ## ✈️ TravelXpress
 
-**Travel & Ticket Booking Project**
+### Travel & Ticket Booking Project
 
-A travel-focused project designed to combine ticket booking and holiday planning.
+A travel-focused project designed to combine **ticket booking and holiday planning**.
 
-### Features
+### ✨ Features
 
 - 🎫 Ticket Booking
 - 🌍 Travel Exploration
 - 🏨 Holiday Planning
 - 📍 Destination Information
 - 🧳 Travel Management
+- ✈️ Travel Planning
 
 ---
 
----
+# 📚 Currently Learning
 
----
-
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aznanab&theme=tokyo-night&hide_border=true&area=true">
-
-</div>
-
----
+```text
+💻 Data Structures & Algorithms
+🌐 Web Development
+⚙️ Software Engineering
+🗄️ Database Management
+☕ Java
+🐍 Python
+🚀 ASP.NET Core
